@@ -1,0 +1,410 @@
+/*
+	@name mzp_html
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 904px; height: 2046px; margin-left: auto; margin-right: auto;  }
+
+#_bg__home {
+	top: 0px;
+	left: 0px;
+	width: 904px;
+	height: 2046px;
+	background:rgba(255,255,255,1);
+}
+
+#iphone_x___silver {
+	top: 52.07px;
+	left: 5px;
+	width: 900px;
+	height: 1993.76px;
+}
+#group_33 {
+	top: 0px;
+	left: 0px;
+	width: 900px;
+	height: 1993.76px;
+}
+#group_36 {
+	top: 947px;
+	left: 25px;
+	width: 841.02px;
+	height: 386.05px;
+}
+
+#new1 {
+	top: 139px;
+	left: 567px;
+	width: 273.98px;
+	height: 200.59px;
+}
+
+
+#new1_ek1 {
+	top: 139px;
+	left: 0px;
+	width: 273.98px;
+	height: 200.59px;
+}
+
+
+#new1_ek2 {
+	top: 84px;
+	left: 180px;
+	width: 403.16px;
+	height: 301.99px;
+}
+
+
+#v {
+	top: 241px;
+	left: 733px;
+	width: 37.438064651489px;
+	height: 65.268064651489px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 34.22px;
+	text-align: left;
+	line-height: 34.22px;
+	color:#000000;
+}
+
+
+#v_ek1 {
+	top: 211px;
+	left: 96px;
+	width: 37.438064651489px;
+	height: 65.268064651489px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 34.22px;
+	text-align: left;
+	line-height: 34.22px;
+	color:#000000;
+}
+
+
+#tutorial_untuk_kiddy_toys {
+	top: 0px;
+	left: 84px;
+	width: 463px;
+	height: 67.741892471313px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 35.7px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 35.7px;
+	color:#000000;
+}
+
+#group_37 {
+	top: 1355px;
+	left: 25px;
+	width: 841.02px;
+	height: 386.05px;
+}
+
+#new1_ek3 {
+	top: 139px;
+	left: 567px;
+	width: 273.98px;
+	height: 200.59px;
+}
+
+
+#new1_ek4 {
+	top: 139px;
+	left: 0px;
+	width: 273.98px;
+	height: 200.59px;
+}
+
+
+#new1_ek5 {
+	top: 84px;
+	left: 180px;
+	width: 403.16px;
+	height: 301.99px;
+}
+
+
+#v_ek2 {
+	top: 241px;
+	left: 733px;
+	width: 37.438064651489px;
+	height: 65.268064651489px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 34.22px;
+	text-align: left;
+	line-height: 34.22px;
+	color:#000000;
+}
+
+
+#v_ek3 {
+	top: 211px;
+	left: 96px;
+	width: 37.438064651489px;
+	height: 65.268064651489px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 34.22px;
+	text-align: left;
+	line-height: 34.22px;
+	color:#000000;
+}
+
+
+#artikel_trending {
+	top: 0px;
+	left: 84px;
+	width: 294.06189247131px;
+	height: 67.741892471313px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 35.7px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 35.7px;
+	color:#000000;
+}
+
+
+#group_39 {
+	top: 0px;
+	left: 61px;
+	width: 773.09px;
+	height: 235.05px;
+}
+
+#navbar {
+	top: 1842px;
+	left: 0px;
+	width: 900px;
+	height: 151.83px;
+}
+
+#rectangle_33 {
+	top: 0.99px;
+	left: 0px;
+	width: 900px;
+	height: 151.83px;
+	-ms-border-radius: 16.12px;
+	-o-border-radius: 16.12px;
+	-moz-border-radius: 16.12px;
+	-webkit-border-radius: 16.12px;
+	border-radius: 16.12px;
+	-ms-box-shadow:0px -0.99px 6px 6px rgba(0,0,0,0.22);
+	-o-box-shadow:0px -0.99px 6px 6px rgba(0,0,0,0.22);
+	-webkit-box-shadow:0px -0.99px 6px 6px rgba(0,0,0,0.22);
+	-moz-box-shadow:0px -0.99px 6px 6px rgba(0,0,0,0.22);
+	box-shadow:0px -0.99px 6px 6px rgba(0,0,0,0.22);
+	background:rgba(239.06,239.06,239.06,1);
+}
+
+
+#navbar_ek1 {
+	top: 14px;
+	left: 52px;
+	width: 795.8px;
+	height: 109.98px;
+}
+
+#group_23 {
+	top: 332.74px;
+	left: 156.7px;
+	width: 591.1px;
+	height: 610.44px;
+}
+
+#profil {
+	top: 0px;
+	left: 0px;
+	width: 591.1px;
+	height: 573.24px;
+}
+
+#button {
+	top: 462px;
+	left: 329px;
+	width: 74.38px;
+	height: 74.38px;
+}
+
+#ellipse_11 {
+	top: 0px;
+	left: 0px;
+	width: 74.38px;
+	height: 74.38px;
+	-ms-border-radius: 37.19px / 37.19px;
+	-o-border-radius: 37.19px / 37.19px;
+	-moz-border-radius: 37.19px / 37.19px;
+	-webkit-border-radius: 37.19px / 37.19px;
+	border-radius: 37.19px / 37.19px;
+	
+	-ms-transform:rotate(-90deg);
+	-o-transform:rotate(-90deg);
+	-webkit-transform:rotate(-90deg);
+	-moz-transform:rotate(-90deg);
+	transform:rotate(-90deg);
+	background:rgba(197,66,95,1);
+}
+
+#group_11 {
+	top: 70px;
+	left: -3px;
+	width: 23.42px;
+	height: 45.86px;
+}
+
+#line_6 {
+	top: 24px;
+	left: -62px;
+	width: 32.23px;
+	height: 0px;
+}
+
+
+#line_7 {
+	top: 69px;
+	left: -39px;
+	width: 32.23px;
+	height: 0px;
+}
+
+#revzz {
+	top: 368px;
+	left: 56px;
+	width: 471.34px;
+	height: 32.73px;
+}
+#revenue {
+	top: 0px;
+	left: 0px;
+	width: 471.34px;
+	height: 32.73px;
+}
+
+#rectangle_24 {
+	top: 5px;
+	left: 0px;
+	width: 471.34px;
+	height: 24.79px;
+	-ms-border-radius: 12.4px;
+	-o-border-radius: 12.4px;
+	-moz-border-radius: 12.4px;
+	-webkit-border-radius: 12.4px;
+	border-radius: 12.4px;
+	background:rgba(221.35,221.35,221.35,1);
+}
+
+
+#rectangle_25 {
+	top: 5px;
+	left: 0px;
+	width: 363.98px;
+	height: 24.79px;
+	-ms-border-radius: 12.4px;
+	-o-border-radius: 12.4px;
+	-moz-border-radius: 12.4px;
+	-webkit-border-radius: 12.4px;
+	border-radius: 12.4px;
+	background:rgba(255,208.17,42.15,1);
+}
+
+
+#_76_ {
+	top: 0px;
+	left: 207px;
+	width: 71px;
+	height: 51.366862754822px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 27.27px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 27.27px;
+	color:#000000;
+}
+
+
+#pencapaian_goal {
+	top: 414px;
+	left: 56px;
+	width: 309px;
+	height: 66.006006622314px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 34.71px;
+	text-align: left;
+	line-height: 34.71px;
+	color:#C5415E;
+}
+
+#revzz_ek1 {
+	top: 471px;
+	left: 61px;
+	width: 471.34px;
+	height: 32.73px;
+}
+#revenue_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 471.34px;
+	height: 32.73px;
+}
+
+#rectangle_24_ek1 {
+	top: 5px;
+	left: 0px;
+	width: 471.34px;
+	height: 24.79px;
+	-ms-border-radius: 12.4px;
+	-o-border-radius: 12.4px;
+	-moz-border-radius: 12.4px;
+	-webkit-border-radius: 12.4px;
+	border-radius: 12.4px;
+	background:rgba(221.35,221.35,221.35,1);
+}
+
+
+#rectangle_25_ek1 {
+	top: 5px;
+	left: 0px;
+	width: 406.87px;
+	height: 24.79px;
+	-ms-border-radius: 12.4px;
+	-o-border-radius: 12.4px;
+	-moz-border-radius: 12.4px;
+	-webkit-border-radius: 12.4px;
+	border-radius: 12.4px;
+	background:rgba(255,208.17,42.15,1);
+}
+
+
+#_90_ {
+	top: 0px;
+	left: 207px;
+	width: 76.116862754822px;
+	height: 51.366862754822px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 27.27px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 27.27px;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */

@@ -1,0 +1,815 @@
+/*
+	@name mzp_html
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 906.05554199219px; height: 1789px; margin-left: auto; margin-right: auto;  }
+
+#_bg__kuesioner {
+	top: 0px;
+	left: 0px;
+	width: 906.06px;
+	height: 1789px;
+	background:rgba(255,255,255,1);
+}
+
+#iphone_x___silver {
+	top: px;
+	left: 67.84px;
+	width: 774.84px;
+	height: 235.58px;
+}
+
+#group_33 {
+	top: 0px;
+	left: 0px;
+	width: 774.84px;
+	height: 235.58px;
+}
+
+#group_28 {
+	top: 472.41px;
+	left: 146.37px;
+	width: 622.76px;
+	height: 1089.7px;
+}
+#form {
+	top: 0px;
+	left: 0px;
+	width: 622.76px;
+	height: 87.23px;
+}
+
+#rectangle_39 {
+	opacity:0;
+	top: 18px;
+	left: 0px;
+	width: 630.22px;
+	height: 77.04px;
+	-ms-border-radius: 17.4px;
+	-o-border-radius: 17.4px;
+	-moz-border-radius: 17.4px;
+	-webkit-border-radius: 17.4px;
+	border-radius: 17.4px;
+	border: 3.73px solid #42c5a8;
+	background:rgba(196,196,196,0);
+}
+
+
+#rectangle_40 {
+	top: 8px;
+	left: 26px;
+	width: 178.18px;
+	height: 24.85px;
+	background:rgba(255,255,255,1);
+}
+
+
+#jenis_usaha {
+	top: 0px;
+	left: 27px;
+	width: 186px;
+	height: 54.953390159607px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 28.83px;
+	text-align: left;
+	line-height: 28.83px;
+	color:#000000;
+}
+
+
+#pilih_jenis_usahamu___ {
+	top: 38px;
+	left: 20px;
+	width: 252.48533683777px;
+	height: 47.245336837769px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 24.85px;
+	text-align: left;
+	line-height: 24.85px;
+	color:#C0C0C0;
+}
+
+#group_27 {
+	top: 51px;
+	left: 576px;
+	width: 30.81px;
+	height: 10.44px;
+}
+
+#line_13 {
+	top: -5px;
+	left: -2px;
+	width: 17.4px;
+	height: 0px;
+}
+
+
+#line_14 {
+	top: -5px;
+	left: 12px;
+	width: 19.86px;
+	height: 0px;
+}
+
+#form_ek1 {
+	top: 152px;
+	left: 0px;
+	width: 622.76px;
+	height: 87.23px;
+}
+
+#rectangle_39_ek1 {
+	opacity:0;
+	top: 18px;
+	left: 0px;
+	width: 630.22px;
+	height: 77.04px;
+	-ms-border-radius: 17.4px;
+	-o-border-radius: 17.4px;
+	-moz-border-radius: 17.4px;
+	-webkit-border-radius: 17.4px;
+	border-radius: 17.4px;
+	border: 3.73px solid #42c5a8;
+	background:rgba(196,196,196,0);
+}
+
+
+#rectangle_40_ek1 {
+	top: 8px;
+	left: 26px;
+	width: 187.13px;
+	height: 24.85px;
+	background:rgba(255,255,255,1);
+}
+
+
+#target_pasar {
+	top: 0px;
+	left: 27px;
+	width: 193px;
+	height: 54.953390159607px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 28.83px;
+	text-align: left;
+	line-height: 28.83px;
+	color:#000000;
+}
+
+
+#pilih_target_pasarmu___ {
+	top: 38px;
+	left: 18px;
+	width: 267.14533683777px;
+	height: 47.245336837769px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 24.85px;
+	text-align: left;
+	line-height: 24.85px;
+	color:#C0C0C0;
+}
+
+#group_27_ek1 {
+	top: 51px;
+	left: 576px;
+	width: 30.81px;
+	height: 10.44px;
+}
+
+#line_13_ek1 {
+	top: -5px;
+	left: -2px;
+	width: 17.4px;
+	height: 0px;
+}
+
+
+#line_14_ek1 {
+	top: -5px;
+	left: 12px;
+	width: 19.86px;
+	height: 0px;
+}
+
+#form_ek2 {
+	top: 655px;
+	left: 0px;
+	width: 622.76px;
+	height: 87.23px;
+}
+
+#rectangle_39_ek2 {
+	opacity:0;
+	top: 18px;
+	left: 0px;
+	width: 630.22px;
+	height: 77.04px;
+	-ms-border-radius: 17.4px;
+	-o-border-radius: 17.4px;
+	-moz-border-radius: 17.4px;
+	-webkit-border-radius: 17.4px;
+	border-radius: 17.4px;
+	border: 3.73px solid #42c5a8;
+	background:rgba(196,196,196,0);
+}
+
+
+#rectangle_40_ek2 {
+	top: 8px;
+	left: 26px;
+	width: 142.39px;
+	height: 24.85px;
+	background:rgba(255,255,255,1);
+}
+
+
+#tindakan {
+	top: 0px;
+	left: 27px;
+	width: 145px;
+	height: 54.953390159607px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 28.83px;
+	text-align: left;
+	line-height: 28.83px;
+	color:#000000;
+}
+
+
+#pilih_tindakanmu {
+	top: 38px;
+	left: 18px;
+	width: 209px;
+	height: 47.245336837769px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 24.85px;
+	text-align: left;
+	line-height: 24.85px;
+	color:#C0C0C0;
+}
+
+#group_27_ek2 {
+	top: 51px;
+	left: 576px;
+	width: 30.81px;
+	height: 10.44px;
+}
+
+#line_13_ek2 {
+	top: -5px;
+	left: -2px;
+	width: 17.4px;
+	height: 0px;
+}
+
+
+#line_14_ek2 {
+	top: -5px;
+	left: 12px;
+	width: 19.86px;
+	height: 0px;
+}
+
+#form_ek3 {
+	top: 807px;
+	left: 0px;
+	width: 622.76px;
+	height: 282.8px;
+}
+
+#rectangle_39_ek3 {
+	opacity:0;
+	top: 18px;
+	left: 0px;
+	width: 630.22px;
+	height: 272.62px;
+	-ms-border-radius: 17.4px;
+	-o-border-radius: 17.4px;
+	-moz-border-radius: 17.4px;
+	-webkit-border-radius: 17.4px;
+	border-radius: 17.4px;
+	border: 3.73px solid #42c5a8;
+	background:rgba(196,196,196,0);
+}
+
+
+#rectangle_40_ek3 {
+	top: 8px;
+	left: 26px;
+	width: 262.17px;
+	height: 24.85px;
+	background:rgba(255,255,255,1);
+}
+
+
+#kanal_pemasaran {
+	top: 0px;
+	left: 27px;
+	width: 262px;
+	height: 54.953390159607px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 28.83px;
+	text-align: left;
+	line-height: 28.83px;
+	color:#000000;
+}
+
+
+#sudah {
+	top: 50px;
+	left: 311px;
+	width: 90.205336837769px;
+	height: 47.245336837769px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 24.85px;
+	text-align: left;
+	line-height: 24.85px;
+	color:#C0C0C0;
+}
+
+
+#tertarik {
+	top: 50px;
+	left: 459px;
+	width: 101px;
+	height: 47.245336837769px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 24.85px;
+	text-align: left;
+	line-height: 24.85px;
+	color:#C0C0C0;
+}
+
+#channel {
+	top: 82px;
+	left: 35px;
+	width: 490.8px;
+	height: 46.97px;
+}
+
+#google_ads {
+	top: 9px;
+	left: 54px;
+	width: 150.34533683777px;
+	height: 47.245336837769px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 24.85px;
+	text-align: left;
+	line-height: 24.85px;
+	color:#2A2A2A;
+}
+
+
+#image_19 {
+	top: 0px;
+	left: 0px;
+	width: 37.77px;
+	height: 46.97px;
+}
+
+#group_34 {
+	top: 2px;
+	left: 294px;
+	width: 43.99px;
+	height: 43.74px;
+}
+
+#rectangle_39_ek4 {
+	opacity:0;
+	top: 0px;
+	left: 0px;
+	width: 48.97px;
+	height: 48.72px;
+	-ms-border-radius: 29.82px;
+	-o-border-radius: 29.82px;
+	-moz-border-radius: 29.82px;
+	-webkit-border-radius: 29.82px;
+	border-radius: 29.82px;
+	border: 2.49px solid #42c5a8;
+	background:rgba(196,196,196,0);
+}
+
+
+#rectangle_41 {
+	top: 8px;
+	left: 9px;
+	width: 26.34px;
+	height: 26.59px;
+	-ms-border-radius: 29.82px;
+	-o-border-radius: 29.82px;
+	-moz-border-radius: 29.82px;
+	-webkit-border-radius: 29.82px;
+	border-radius: 29.82px;
+	background:rgba(66,197,168,1);
+}
+
+#group_35 {
+	top: 2px;
+	left: 447px;
+	width: 43.99px;
+	height: 43.74px;
+}
+
+#rectangle_39_ek5 {
+	opacity:0;
+	top: 0px;
+	left: 0px;
+	width: 48.97px;
+	height: 48.72px;
+	-ms-border-radius: 29.82px;
+	-o-border-radius: 29.82px;
+	-moz-border-radius: 29.82px;
+	-webkit-border-radius: 29.82px;
+	border-radius: 29.82px;
+	border: 2.49px solid #42c5a8;
+	background:rgba(196,196,196,0);
+}
+
+
+#rectangle_41_ek1 {
+	top: 8px;
+	left: 9px;
+	width: 26.34px;
+	height: 26.59px;
+	-ms-border-radius: 29.82px;
+	-o-border-radius: 29.82px;
+	-moz-border-radius: 29.82px;
+	-webkit-border-radius: 29.82px;
+	border-radius: 29.82px;
+	background:rgba(66,197,168,1);
+}
+
+#channel_ek1 {
+	top: 150px;
+	left: 26px;
+	width: 499px;
+	height: 59.89px;
+}
+
+#instagram_biz {
+	top: 9px;
+	left: 62px;
+	width: 174.20533683777px;
+	height: 47.245336837769px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 24.85px;
+	text-align: left;
+	line-height: 24.85px;
+	color:#2A2A2A;
+}
+
+
+#image_19_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 54.17px;
+	height: 59.89px;
+}
+
+#group_34_ek1 {
+	top: 2px;
+	left: 302px;
+	width: 43.99px;
+	height: 43.74px;
+}
+
+#rectangle_39_ek6 {
+	opacity:0;
+	top: 0px;
+	left: 0px;
+	width: 48.97px;
+	height: 48.72px;
+	-ms-border-radius: 29.82px;
+	-o-border-radius: 29.82px;
+	-moz-border-radius: 29.82px;
+	-webkit-border-radius: 29.82px;
+	border-radius: 29.82px;
+	border: 2.49px solid #42c5a8;
+	background:rgba(196,196,196,0);
+}
+
+
+#rectangle_41_ek2 {
+	top: 8px;
+	left: 9px;
+	width: 26.34px;
+	height: 26.59px;
+	-ms-border-radius: 29.82px;
+	-o-border-radius: 29.82px;
+	-moz-border-radius: 29.82px;
+	-webkit-border-radius: 29.82px;
+	border-radius: 29.82px;
+	background:rgba(185.94,185.94,185.94,1);
+}
+
+#group_35_ek1 {
+	top: 2px;
+	left: 455px;
+	width: 43.99px;
+	height: 43.74px;
+}
+
+#rectangle_39_ek7 {
+	opacity:0;
+	top: 0px;
+	left: 0px;
+	width: 48.97px;
+	height: 48.72px;
+	-ms-border-radius: 29.82px;
+	-o-border-radius: 29.82px;
+	-moz-border-radius: 29.82px;
+	-webkit-border-radius: 29.82px;
+	border-radius: 29.82px;
+	border: 2.49px solid #42c5a8;
+	background:rgba(196,196,196,0);
+}
+
+
+#rectangle_41_ek3 {
+	top: 8px;
+	left: 9px;
+	width: 26.34px;
+	height: 26.59px;
+	-ms-border-radius: 29.82px;
+	-o-border-radius: 29.82px;
+	-moz-border-radius: 29.82px;
+	-webkit-border-radius: 29.82px;
+	border-radius: 29.82px;
+	background:rgba(66,197,168,1);
+}
+
+#channel_ek2 {
+	top: 219px;
+	left: 35px;
+	width: 490.8px;
+	height: 46.97px;
+}
+
+#facebook_ads {
+	top: 9px;
+	left: 54px;
+	width: 182px;
+	height: 47.245336837769px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 24.85px;
+	text-align: left;
+	line-height: 24.85px;
+	color:#2A2A2A;
+}
+
+
+#image_19_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 37.77px;
+	height: 46.97px;
+}
+
+#group_34_ek2 {
+	top: 2px;
+	left: 294px;
+	width: 43.99px;
+	height: 43.74px;
+}
+
+#rectangle_39_ek8 {
+	opacity:0;
+	top: 0px;
+	left: 0px;
+	width: 48.97px;
+	height: 48.72px;
+	-ms-border-radius: 29.82px;
+	-o-border-radius: 29.82px;
+	-moz-border-radius: 29.82px;
+	-webkit-border-radius: 29.82px;
+	border-radius: 29.82px;
+	border: 2.49px solid #42c5a8;
+	background:rgba(196,196,196,0);
+}
+
+
+#rectangle_41_ek4 {
+	top: 8px;
+	left: 9px;
+	width: 26.34px;
+	height: 26.59px;
+	-ms-border-radius: 29.82px;
+	-o-border-radius: 29.82px;
+	-moz-border-radius: 29.82px;
+	-webkit-border-radius: 29.82px;
+	border-radius: 29.82px;
+	background:rgba(185.94,185.94,185.94,1);
+}
+
+#group_35_ek2 {
+	top: 2px;
+	left: 447px;
+	width: 43.99px;
+	height: 43.74px;
+}
+
+#rectangle_39_ek9 {
+	opacity:0;
+	top: 0px;
+	left: 0px;
+	width: 48.97px;
+	height: 48.72px;
+	-ms-border-radius: 29.82px;
+	-o-border-radius: 29.82px;
+	-moz-border-radius: 29.82px;
+	-webkit-border-radius: 29.82px;
+	border-radius: 29.82px;
+	border: 2.49px solid #42c5a8;
+	background:rgba(196,196,196,0);
+}
+
+
+#rectangle_41_ek5 {
+	top: 8px;
+	left: 9px;
+	width: 26.34px;
+	height: 26.59px;
+	-ms-border-radius: 29.82px;
+	-o-border-radius: 29.82px;
+	-moz-border-radius: 29.82px;
+	-webkit-border-radius: 29.82px;
+	border-radius: 29.82px;
+	background:rgba(185.94,185.94,185.94,1);
+}
+
+#form_ek4 {
+	top: 457px;
+	left: 26px;
+	width: 504.22px;
+	height: 88.47px;
+}
+
+#rectangle_40_ek4 {
+	top: 8px;
+	left: 0px;
+	width: 55.91px;
+	height: 24.85px;
+	background:rgba(255,255,255,1);
+}
+
+
+#kasus_pemasaran {
+	top: 0px;
+	left: 3px;
+	width: 275px;
+	height: 56.690403251648px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 29.82px;
+	text-align: left;
+	line-height: 29.82px;
+	color:#000000;
+}
+
+
+#apabila_kamu_direkomendasikan_untuk_menggunakan_jasa_influencer_dengan_harga_lima_juta_rupiah_dengan_persentase_peluang_keberhasilan_40___apa_yang_akan_kamu_lakukan_ {
+	top: 42px;
+	left: -4px;
+	width: 517px;
+	height: 63.895336837769px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 24.85px;
+	text-align: justified;
+	line-height: 24.85px;
+	color:#717171;
+}
+
+#form_ek5 {
+	top: 305px;
+	left: 0px;
+	width: 290.75px;
+	height: 87.23px;
+}
+
+#rectangle_39_ek10 {
+	opacity:0;
+	top: 18px;
+	left: 0px;
+	width: 298.21px;
+	height: 77.04px;
+	-ms-border-radius: 17.4px;
+	-o-border-radius: 17.4px;
+	-moz-border-radius: 17.4px;
+	-webkit-border-radius: 17.4px;
+	border-radius: 17.4px;
+	border: 3.73px solid #42c5a8;
+	background:rgba(196,196,196,0);
+}
+
+
+#rectangle_40_ek5 {
+	top: 8px;
+	left: 26px;
+	width: 248.01px;
+	height: 24.85px;
+	background:rgba(255,255,255,1);
+}
+
+
+#biaya_pemasaran {
+	top: 0px;
+	left: 26px;
+	width: 261.18339015961px;
+	height: 54.953390159607px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 28.83px;
+	text-align: left;
+	line-height: 28.83px;
+	color:#000000;
+}
+
+
+#ketik_biayamu___ {
+	top: 38px;
+	left: 20px;
+	width: 196px;
+	height: 47.245336837769px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 24.85px;
+	text-align: left;
+	line-height: 24.85px;
+	color:#C0C0C0;
+}
+
+
+#isi_data_usahamu {
+	top: 356.61px;
+	left: 146.37px;
+	width: 378.22307167053px;
+	height: 79.823071670532px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 42.25px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 42.25px;
+	color:#000000;
+}
+
+
+#rectangle_42 {
+	top: 1359.33px;
+	left: 741.79px;
+	width: 10.93px;
+	height: 191.85px;
+	background:rgba(235.88,235.88,235.88,1);
+}
+
+
+#rectangle_43 {
+	top: 1371.51px;
+	left: 744.53px;
+	width: 5.47px;
+	height: 143.64px;
+	-ms-border-radius: 6.21px;
+	-o-border-radius: 6.21px;
+	-moz-border-radius: 6.21px;
+	-webkit-border-radius: 6.21px;
+	border-radius: 6.21px;
+	background:rgba(148.75,148.75,148.75,1);
+}
+
+
+#selanjutnya {
+	top: 1641.64px;
+	left: 348.41px;
+	width: 226px;
+	height: 67.882484664917px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 35.78px;
+	text-align: left;
+	line-height: 35.78px;
+	color:#42C5A8;
+}
+
+
+
+/* Add your custom CSS here */

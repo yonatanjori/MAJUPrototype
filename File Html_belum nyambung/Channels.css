@@ -1,0 +1,144 @@
+/*
+	@name mzp_html
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 900px; height: 1777.0433349609px; margin-left: auto; margin-right: auto;  }
+
+#_bg__channels {
+	top: 0px;
+	left: 0px;
+	width: 900px;
+	height: 1777.04px;
+	background:rgba(255,255,255,1);
+}
+
+#group_33 {
+	top: 57.03px;
+	left: 0px;
+	width: 900px;
+	height: 1719.8px;
+}
+
+#group_39 {
+	top: 0px;
+	left: 66px;
+	width: 773.11px;
+	height: 235.06px;
+}
+
+
+#daftar_kanal_mu {
+	top: 278px;
+	left: 129px;
+	width: 303.49247993469px;
+	height: 67.752479934692px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 35.7px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 35.7px;
+	color:#000000;
+}
+
+#navbar {
+	top: 1568px;
+	left: 0px;
+	width: 900px;
+	height: 151.83px;
+}
+
+#rectangle_33 {
+	top: 0.99px;
+	left: 0px;
+	width: 900px;
+	height: 151.83px;
+	-ms-border-radius: 16.12px;
+	-o-border-radius: 16.12px;
+	-moz-border-radius: 16.12px;
+	-webkit-border-radius: 16.12px;
+	border-radius: 16.12px;
+	-ms-box-shadow:0px -0.99px 6px 6px rgba(0,0,0,0.22);
+	-o-box-shadow:0px -0.99px 6px 6px rgba(0,0,0,0.22);
+	-webkit-box-shadow:0px -0.99px 6px 6px rgba(0,0,0,0.22);
+	-moz-box-shadow:0px -0.99px 6px 6px rgba(0,0,0,0.22);
+	box-shadow:0px -0.99px 6px 6px rgba(0,0,0,0.22);
+	background:rgba(239.06,239.06,239.06,1);
+}
+
+
+#navbar_ek1 {
+	top: 14px;
+	left: 52px;
+	width: 795.8px;
+	height: 109.97px;
+}
+
+
+#group_48 {
+	top: 465.16px;
+	left: 101.91px;
+	width: 700.21px;
+	height: 370.93px;
+}
+
+
+#group_49 {
+	top: 836.09px;
+	left: 102.65px;
+	width: 700.21px;
+	height: 370.93px;
+}
+
+
+#group_50 {
+	top: 1207.03px;
+	left: 102.65px;
+	width: 700.21px;
+	height: 370.93px;
+}
+
+
+#ellipse_19 {
+	top: 1427.7px;
+	left: 645.91px;
+	width: 134.89px;
+	height: 134.89px;
+	-ms-border-radius: 67.44px / 67.44px;
+	-o-border-radius: 67.44px / 67.44px;
+	-moz-border-radius: 67.44px / 67.44px;
+	-webkit-border-radius: 67.44px / 67.44px;
+	border-radius: 67.44px / 67.44px;
+	-ms-box-shadow:2.48px 2.48px 1px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:2.48px 2.48px 1px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:2.48px 2.48px 1px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:2.48px 2.48px 1px 1px rgba(0,0,0,0.25);
+	box-shadow:2.48px 2.48px 1px 1px rgba(0,0,0,0.25);
+	background:rgba(197,66,95,1);
+}
+
+
+#__ {
+	top: 1443.82px;
+	left: 689.55px;
+	width: 90.381564483643px;
+	height: 162.42156448364px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 85.54px;
+	text-align: left;
+	line-height: 85.54px;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */

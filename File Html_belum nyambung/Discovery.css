@@ -1,0 +1,315 @@
+/*
+	@name mzp_html
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 900px; height: 2003px; margin-left: auto; margin-right: auto;  }
+
+#_bg__discovery_influencer {
+	top: 0px;
+	left: 0px;
+	width: 900px;
+	height: 2003px;
+	background:rgba(255,255,255,1);
+}
+
+#iphone_x___silver {
+	top: 56.81px;
+	left: 0px;
+	width: 900px;
+	height: 1946.02px;
+}
+#group_33 {
+	top: 0px;
+	left: 0px;
+	width: 900px;
+	height: 1946.02px;
+}
+
+#group_39 {
+	top: 0px;
+	left: 66px;
+	width: 770.08px;
+	height: 234.14px;
+}
+
+
+#pilih_menu {
+	top: 277px;
+	left: 128px;
+	width: 195.36247070313px;
+	height: 67.512470703125px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 35.56px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 35.56px;
+	color:#000000;
+}
+
+#group_55 {
+	top: 348px;
+	left: 129px;
+	width: 151.12px;
+	height: 49.4px;
+}
+
+#rectangle_52 {
+	top: 0px;
+	left: 0px;
+	width: 151.12px;
+	height: 49.4px;
+	-ms-border-radius: 10.13px;
+	-o-border-radius: 10.13px;
+	-moz-border-radius: 10.13px;
+	-webkit-border-radius: 10.13px;
+	border-radius: 10.13px;
+	-ms-box-shadow:2.47px 2.47px 1px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:2.47px 2.47px 1px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:2.47px 2.47px 1px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:2.47px 2.47px 1px 1px rgba(0,0,0,0.25);
+	box-shadow:2.47px 2.47px 1px 1px rgba(0,0,0,0.25);
+	background:rgba(196,196,196,1);
+}
+
+
+#tips {
+	top: 12px;
+	left: 42px;
+	width: 70.14357509613px;
+	height: 40.43357509613px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 21.49px;
+	text-align: center;
+	line-height: 21.49px;
+	color:#000000;
+}
+
+#group_56 {
+	top: 348px;
+	left: 294px;
+	width: 151.12px;
+	height: 49.4px;
+}
+
+#rectangle_52_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 151.12px;
+	height: 49.4px;
+	-ms-border-radius: 10.13px;
+	-o-border-radius: 10.13px;
+	-moz-border-radius: 10.13px;
+	-webkit-border-radius: 10.13px;
+	border-radius: 10.13px;
+	-ms-box-shadow:2.47px 2.47px 1px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:2.47px 2.47px 1px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:2.47px 2.47px 1px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:2.47px 2.47px 1px 1px rgba(0,0,0,0.25);
+	box-shadow:2.47px 2.47px 1px 1px rgba(0,0,0,0.25);
+	background:rgba(255,208.17,42.15,1);
+}
+
+
+#influencer {
+	top: 12px;
+	left: 5px;
+	width: 143.48357509613px;
+	height: 40.43357509613px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 21.49px;
+	text-align: center;
+	line-height: 21.49px;
+	color:#000000;
+}
+
+#group_57 {
+	top: 348px;
+	left: 459px;
+	width: 151.12px;
+	height: 49.4px;
+}
+
+#rectangle_52_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 151.12px;
+	height: 49.4px;
+	-ms-border-radius: 10.13px;
+	-o-border-radius: 10.13px;
+	-moz-border-radius: 10.13px;
+	-webkit-border-radius: 10.13px;
+	border-radius: 10.13px;
+	-ms-box-shadow:2.47px 2.47px 1px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:2.47px 2.47px 1px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:2.47px 2.47px 1px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:2.47px 2.47px 1px 1px rgba(0,0,0,0.25);
+	box-shadow:2.47px 2.47px 1px 1px rgba(0,0,0,0.25);
+	background:rgba(196,196,196,1);
+}
+
+
+#konten {
+	top: 12px;
+	left: 25px;
+	width: 103.27357509613px;
+	height: 40.43357509613px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 21.49px;
+	text-align: center;
+	line-height: 21.49px;
+	color:#000000;
+}
+
+#group_58 {
+	top: 348px;
+	left: 624px;
+	width: 151.12px;
+	height: 49.4px;
+}
+
+#rectangle_52_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 151.12px;
+	height: 49.4px;
+	-ms-border-radius: 10.13px;
+	-o-border-radius: 10.13px;
+	-moz-border-radius: 10.13px;
+	-webkit-border-radius: 10.13px;
+	border-radius: 10.13px;
+	-ms-box-shadow:2.47px 2.47px 1px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:2.47px 2.47px 1px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:2.47px 2.47px 1px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:2.47px 2.47px 1px 1px rgba(0,0,0,0.25);
+	box-shadow:2.47px 2.47px 1px 1px rgba(0,0,0,0.25);
+	background:rgba(196,196,196,1);
+}
+
+
+#desain {
+	top: 12px;
+	left: 32px;
+	width: 90.47357509613px;
+	height: 40.43357509613px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 21.49px;
+	text-align: center;
+	line-height: 21.49px;
+	color:#000000;
+}
+
+
+#group_48 {
+	top: 510px;
+	left: 103px;
+	width: 697.47px;
+	height: 369.48px;
+}
+
+
+#group_50 {
+	top: 913px;
+	left: 102px;
+	width: 697.47px;
+	height: 369.48px;
+}
+
+
+#group_50_ek1 {
+	top: 1317px;
+	left: 102px;
+	width: 697.47px;
+	height: 369.48px;
+}
+
+#navbar {
+	top: 1794px;
+	left: 0px;
+	width: 900px;
+	height: 151.83px;
+}
+
+#rectangle_33 {
+	top: 0.99px;
+	left: 0px;
+	width: 900px;
+	height: 151.83px;
+	-ms-border-radius: 16.05px;
+	-o-border-radius: 16.05px;
+	-moz-border-radius: 16.05px;
+	-webkit-border-radius: 16.05px;
+	border-radius: 16.05px;
+	-ms-box-shadow:0px -0.99px 6px 6px rgba(0,0,0,0.22);
+	-o-box-shadow:0px -0.99px 6px 6px rgba(0,0,0,0.22);
+	-webkit-box-shadow:0px -0.99px 6px 6px rgba(0,0,0,0.22);
+	-moz-box-shadow:0px -0.99px 6px 6px rgba(0,0,0,0.22);
+	box-shadow:0px -0.99px 6px 6px rgba(0,0,0,0.22);
+	background:rgba(239.06,239.06,239.06,1);
+}
+
+
+#navbar_ek1 {
+	top: 14px;
+	left: 52px;
+	width: 795.8px;
+	height: 109.97px;
+}
+
+#filter {
+	top: 485.56px;
+	left: 648.81px;
+	width: 128.43px;
+	height: 41.49px;
+}
+
+#rectangle_53 {
+	top: 0px;
+	left: 0px;
+	width: 128.43px;
+	height: 41.49px;
+	-ms-border-radius: 8.89px;
+	-o-border-radius: 8.89px;
+	-moz-border-radius: 8.89px;
+	-webkit-border-radius: 8.89px;
+	border-radius: 8.89px;
+	background:rgba(240.12,240.12,240.12,1);
+}
+
+
+#image_24 {
+	top: 7px;
+	left: 82px;
+	width: 29.93px;
+	height: 29.72px;
+}
+
+
+#filter_ek1 {
+	top: 5px;
+	left: 23px;
+	width: 63px;
+	height: 39.22404132843px;
+	overflow: hidden;
+	font-family: Gilmer;
+	font-size: 22.23px;
+	text-align: left;
+	line-height: 22.23px;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */
